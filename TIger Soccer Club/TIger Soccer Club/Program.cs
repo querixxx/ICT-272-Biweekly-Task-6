@@ -67,6 +67,37 @@ namespace TigerSoccerClub
                 double grandTotal = SumTotals(totals);
                 Console.WriteLine("Grand Total of All Orders: " + grandTotal);
                 Console.WriteLine();
+
+                // Change #6 (Biweekly Task 6 #1) - Detailed summary table for all players
+                Console.WriteLine("Summary of Registrations");
+                Console.WriteLine("------------------------------------------------------");
+                Console.WriteLine("Name\t\tType\tJersey\tTotal");
+                Console.WriteLine("------------------------------------------------------");
+
+                for (int idx = 0; idx < players.Count; idx++)
+                {
+                    PlayerData p = players[idx];
+                    double playerTotal = totals[idx];
+                    Console.WriteLine($"{p.Name}\t{p.Registration}\t{p.Jersey}\t{playerTotal}");
+                }
+
+                Console.WriteLine("------------------------------------------------------");
+
+
+                // CHANGE #7 (Biweekly Task 6 #2) – Total BEFORE discount + Discount Saved
+                double beforeDiscount = 0;
+
+                foreach (var p in players)
+                {
+                    // Calculate WITHOUT any discount
+                    beforeDiscount += PriceCalculator.Calculate(p.Registration, p.Jersey, false);
+                }
+
+                double discountSaved = beforeDiscount - grandTotal;
+
+                Console.WriteLine("Total before discount: " + beforeDiscount);
+                Console.WriteLine("Total discount saved: " + discountSaved);
+                Console.WriteLine();
             }
         }
     }
