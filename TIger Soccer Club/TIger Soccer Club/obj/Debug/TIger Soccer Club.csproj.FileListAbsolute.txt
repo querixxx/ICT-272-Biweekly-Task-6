@@ -6,3 +6,11 @@ C:\Users\Will\source\repos\Biweekly Task (4)\TIger Soccer Club\TIger Soccer Club
 C:\Users\Will\source\repos\Biweekly Task (4)\TIger Soccer Club\TIger Soccer Club\obj\Debug\TIger Soccer Club.exe
 C:\Users\Will\source\repos\Biweekly Task (4)\TIger Soccer Club\TIger Soccer Club\obj\Debug\TIger Soccer Club.pdb
 C:\Users\Will\source\repos\Biweekly Task (4)\TIger Soccer Club\TIger Soccer Club\obj\Debug\TIger Soccer Club.exe.config
+C:\Users\Will\source\Github\ICT-272-Biweekly-Task-6\TIger Soccer Club\TIger Soccer Club\bin\Debug\TIger Soccer Club.exe.config
+C:\Users\Will\source\Github\ICT-272-Biweekly-Task-6\TIger Soccer Club\TIger Soccer Club\bin\Debug\TIger Soccer Club.exe
+C:\Users\Will\source\Github\ICT-272-Biweekly-Task-6\TIger Soccer Club\TIger Soccer Club\bin\Debug\TIger Soccer Club.pdb
+C:\Users\Will\source\Github\ICT-272-Biweekly-Task-6\TIger Soccer Club\TIger Soccer Club\obj\Debug\TIger Soccer Club.csproj.AssemblyReference.cache
+C:\Users\Will\source\Github\ICT-272-Biweekly-Task-6\TIger Soccer Club\TIger Soccer Club\obj\Debug\TIger Soccer Club.exe.config
+C:\Users\Will\source\Github\ICT-272-Biweekly-Task-6\TIger Soccer Club\TIger Soccer Club\obj\Debug\TIger Soccer Club.csproj.CoreCompileInputs.cache
+C:\Users\Will\source\Github\ICT-272-Biweekly-Task-6\TIger Soccer Club\TIger Soccer Club\obj\Debug\TIger Soccer Club.exe
+C:\Users\Will\source\Github\ICT-272-Biweekly-Task-6\TIger Soccer Club\TIger Soccer Club\obj\Debug\TIger Soccer Club.pdb

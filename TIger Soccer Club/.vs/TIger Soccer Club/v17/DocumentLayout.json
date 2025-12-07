@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Will\\source\\repos\\Biweekly Task (4)\\TIger Soccer Club\\",
+  "WorkspaceRootPath": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|c:\\users\\will\\source\\repos\\biweekly task (4)\\tiger soccer club\\tiger soccer club\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\tiger soccer club\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|solutionrelative:tiger soccer club\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|c:\\users\\will\\source\\repos\\biweekly task (4)\\tiger soccer club\\tiger soccer club\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|c:\\users\\will\\source\\github\\ict-272-biweekly-task-6\\tiger soccer club\\tiger soccer club\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|solutionrelative:tiger soccer club\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\tiger soccer club\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|solutionrelative:tiger soccer club\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|c:\\users\\will\\source\\repos\\biweekly task (4)\\tiger soccer club\\tiger soccer club\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\tiger soccer club\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|solutionrelative:tiger soccer club\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|c:\\users\\will\\source\\repos\\biweekly task (4)\\tiger soccer club\\tiger soccer club\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|solutionrelative:tiger soccer club\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\Program.cs",
+              "RelativeDocumentMoniker": "TIger Soccer Club\\Program.cs",
+              "ToolTip": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\Program.cs",
+              "RelativeToolTip": "TIger Soccer Club\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T03:10:31.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "InputValidation.cs",
-              "DocumentMoniker": "C:\\Users\\Will\\source\\repos\\Biweekly Task (4)\\TIger Soccer Club\\TIger Soccer Club\\InputValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\InputValidation.cs",
               "RelativeDocumentMoniker": "TIger Soccer Club\\InputValidation.cs",
-              "ToolTip": "C:\\Users\\Will\\source\\repos\\Biweekly Task (4)\\TIger Soccer Club\\TIger Soccer Club\\InputValidation.cs",
+              "ToolTip": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\InputValidation.cs",
               "RelativeToolTip": "TIger Soccer Club\\InputValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,42 +60,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PriceCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\Will\\source\\repos\\Biweekly Task (4)\\TIger Soccer Club\\TIger Soccer Club\\PriceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\PriceCalculator.cs",
               "RelativeDocumentMoniker": "TIger Soccer Club\\PriceCalculator.cs",
-              "ToolTip": "C:\\Users\\Will\\source\\repos\\Biweekly Task (4)\\TIger Soccer Club\\TIger Soccer Club\\PriceCalculator.cs",
+              "ToolTip": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\PriceCalculator.cs",
               "RelativeToolTip": "TIger Soccer Club\\PriceCalculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T15:43:35.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerData.cs",
-              "DocumentMoniker": "C:\\Users\\Will\\source\\repos\\Biweekly Task (4)\\TIger Soccer Club\\TIger Soccer Club\\PlayerData.cs",
-              "RelativeDocumentMoniker": "TIger Soccer Club\\PlayerData.cs",
-              "ToolTip": "C:\\Users\\Will\\source\\repos\\Biweekly Task (4)\\TIger Soccer Club\\TIger Soccer Club\\PlayerData.cs",
-              "RelativeToolTip": "TIger Soccer Club\\PlayerData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T15:10:26.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T15:43:35.652Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Will\\source\\repos\\Biweekly Task (4)\\TIger Soccer Club\\TIger Soccer Club\\Program.cs",
-              "RelativeDocumentMoniker": "TIger Soccer Club\\Program.cs",
-              "ToolTip": "C:\\Users\\Will\\source\\repos\\Biweekly Task (4)\\TIger Soccer Club\\TIger Soccer Club\\Program.cs",
-              "RelativeToolTip": "TIger Soccer Club\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\PlayerData.cs",
+              "RelativeDocumentMoniker": "TIger Soccer Club\\PlayerData.cs",
+              "ToolTip": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\PlayerData.cs",
+              "RelativeToolTip": "TIger Soccer Club\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T03:10:31.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T15:10:26.691Z"
             }
           ]
         }
