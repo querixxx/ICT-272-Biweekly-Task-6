@@ -83,7 +83,7 @@ namespace TigerSoccerClub
 
                 Console.WriteLine("------------------------------------------------------");
 
-
+                // This is for Github Task
                 // CHANGE #7 (Biweekly Task 6 #2) – Total BEFORE discount + Discount Saved
                 double beforeDiscount = 0;
 

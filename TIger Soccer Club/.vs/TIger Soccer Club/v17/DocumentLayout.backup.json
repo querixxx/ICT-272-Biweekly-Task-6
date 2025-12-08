@@ -26,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\Program.cs",
+              "RelativeDocumentMoniker": "TIger Soccer Club\\Program.cs",
+              "ToolTip": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\Program.cs*",
+              "RelativeToolTip": "TIger Soccer Club\\Program.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T03:10:31.878Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,7 +49,7 @@
               "RelativeDocumentMoniker": "TIger Soccer Club\\InputValidation.cs",
               "ToolTip": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\InputValidation.cs",
               "RelativeToolTip": "TIger Soccer Club\\InputValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T16:26:43.102Z",
               "EditorCaption": ""
@@ -64,19 +77,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T15:10:26.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\Program.cs",
-              "RelativeDocumentMoniker": "TIger Soccer Club\\Program.cs",
-              "ToolTip": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\Program.cs",
-              "RelativeToolTip": "TIger Soccer Club\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T03:10:31.878Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\tiger soccer club\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|solutionrelative:tiger soccer club\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\tiger soccer club\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|solutionrelative:tiger soccer club\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|c:\\users\\will\\source\\github\\ict-272-biweekly-task-6\\tiger soccer club\\tiger soccer club\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|solutionrelative:tiger soccer club\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|c:\\users\\will\\source\\github\\ict-272-biweekly-task-6\\tiger soccer club\\tiger soccer club\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|solutionrelative:tiger soccer club\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FEE53B6-C0C2-47F9-A0E7-1F8CB42D9BB5}|TIger Soccer Club\\TIger Soccer Club.csproj|C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\tiger soccer club\\pricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,34 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\Program.cs",
               "RelativeDocumentMoniker": "TIger Soccer Club\\Program.cs",
               "ToolTip": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\Program.cs",
               "RelativeToolTip": "TIger Soccer Club\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwFAAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T03:10:31.878Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InputValidation.cs",
               "DocumentMoniker": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\InputValidation.cs",
               "RelativeDocumentMoniker": "TIger Soccer Club\\InputValidation.cs",
               "ToolTip": "C:\\Users\\Will\\source\\Github\\ICT-272-Biweekly-Task-6\\TIger Soccer Club\\TIger Soccer Club\\InputValidation.cs",
               "RelativeToolTip": "TIger Soccer Club\\InputValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T16:26:43.102Z",
               "EditorCaption": ""
